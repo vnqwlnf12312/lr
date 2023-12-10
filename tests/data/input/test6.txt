@@ -1,0 +1,21 @@
+6 9 6
+SABCDE
+;*xyin()!
+S ->	SC|	(C)|	*D*
+C ->	Ax|	By
+D ->	Ay|	Bx
+A ->	E|	i
+B ->	E|	n
+E ->	!|	(S)
+S
+10
+(!y)
+*!y*
+(!x)
+*!x*
+*iy*
+(ix)
+*nx*
+(ny)
+**
+xy

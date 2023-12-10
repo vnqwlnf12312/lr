@@ -1,0 +1,11 @@
+1 2 1
+A
+ab
+A->aAb|
+A
+5
+
+ab
+aabb
+abab
+aaab
