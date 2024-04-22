@@ -1,0 +1,16 @@
+1 2 1
+A
+ab
+A->aAbA|
+A
+10
+
+ab
+aabb
+abab
+baba
+aaabbb
+aababb
+ababab
+abbaab
+abbbbb

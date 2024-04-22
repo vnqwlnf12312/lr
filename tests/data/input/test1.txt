@@ -1,0 +1,11 @@
+1 5 1
+S
+abcde
+S->a
+S
+5
+a
+b
+c
+d
+ab
